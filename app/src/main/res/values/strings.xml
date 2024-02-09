@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Administrador_Tareas</string>
+
+    <!-- Task Completed Screen -->
+    <string name="tareas_completadas">Se completaron todas las tareas</string>
+    <string name="felicitacion">Bien hecho :D</string>
+</resources>
